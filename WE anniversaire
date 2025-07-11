@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>WE surprise d’anniversaire</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 20px; background: #fdfdfd; }
+    header { text-align: center; margin-bottom: 20px; }
+    h1 { font-size: 2em; }
+    section { margin-bottom: 20px; }
+    footer { text-align: center; margin-top: 30px; font-style: italic; }
+  </style>
+</head>
+<body>
+  <header><h1>WE surprise d’anniversaire</h1></header>
+  <section>
+    <h2>Vendredi – Premiere soiree</h2>
+    <ul>
+      <li>Soirée à Disneyland Paris</li>
+      <li>Dîner dans le parc</li>
+      <li>Nuit à la maison</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Samedi – Deuxieme journee</h2>
+    <ul>
+      <li>Escape Game avec Julie</li>
+      <li>Déjeuner</li>
+      <li>Escalade à Fontainebleau</li>
+      <li>Après-midi & soirée au Château de Bourron</li>
+      <li>Dîner gastronomique</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Dimanche – Dernier jour</h2> 
+    <ul>
+      <li>Déjeuner à Fontainebleau</li>
+      <li>Après-midi détente</li>
+      <li>Retour avec nos filles</li>
+    </ul>
+  </section>
+  <footer>“Ce week-end, c’est pour célébrer toi… Je t’aime.”</footer>
+</body>
+</html>
